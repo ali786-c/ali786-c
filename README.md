@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Hello, I'm Aliyan Tarar!**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Hello, I'm Aliyan!**
 
 🌍 **Mobile Application Developer** from **Pakistan**  
 🎯 Passionate about crafting **intuitive**, **high-performance** Android applications  
@@ -286,9 +286,7 @@
   <a href="https://github.com/ali786-c">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/aliyan_tarar">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" />
-  </a>
+ 
 </p>
 
 ---
@@ -298,7 +296,7 @@
 ```kotlin
 class AliyanTarar : AndroidDeveloper() {
     
-    val name = "Aliyan Tarar"
+    val name = "Aliyan"
     val location = "Pakistan 🇵🇰"
     val role = "Mobile Application Developer"
     
@@ -449,5 +447,5 @@ Other             0 hrs 35 mins  ░░░░░░░░░░░░░░░  
 <p align="center">
   <sub>Made with 💜 by <strong>Aliyan Tarar</strong></sub>
   <br>
-  <sub>© 2024 All Rights Reserved</sub>
+  <sub>© 2025 All Rights Reserved</sub>
 </p>
