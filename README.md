@@ -1,6 +1,6 @@
 <!-- Animated Header with Wave Effect -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=300&section=header&text=Aliyan%20Tarar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Android%20Developer%20%7C%20Mobile%20App%20Specialist&descSize=25&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=300&section=header&text=Muhammad%20Aliyan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Android%20Developer%20%7C%20Mobile%20App%20Specialist&descSize=25&descAlignY=55" />
 </p>
 
 <!-- Dynamic Typing Animation -->
@@ -19,146 +19,97 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
+<!-- SAME HEADER & DESIGN ABOVE (NO CHANGE) -->
+
 ## 👨‍💻 About Me
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Hello, I'm Aliyan!**
 
-🌍 **Mobile Application Developer** from **Pakistan**  
-🎯 Passionate about crafting **intuitive**, **high-performance** Android applications  
-🚀 Specialized in **native Android development** with modern tools & practices  
-💼 Available for **freelance projects** and **collaborations**  
-🌱 Currently learning **Jetpack Compose** & **Kotlin Multiplatform**  
-⚡ Fun fact: I turn **☕ coffee** into **💻 code**  
-
-> *"The best way to predict the future is to invent it."* - Alan Kay
+🌍 Hosting & Cloud Support Specialist from Pakistan  
+💻 Working in web hosting since 2024  
+📱 Currently learning Android Development (Kotlin + XML)  
+💼 Fiverr Level One Seller (international clients)  
+🚀 Passionate about growing as a mobile developer  
 
 ---
 
-## 🎯 Core Competencies
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/android-os.png" width="60"/>
-      <br><strong>Android Development</strong>
-      <br><sub>Native Apps</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/kotlin.png" width="60"/>
-      <br><strong>Kotlin & Java</strong>
-      <br><sub>Modern Languages</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/firebase.png" width="60"/>
-      <br><strong>Firebase</strong>
-      <br><sub>Backend Services</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/96/000000/material-ui.png" width="60"/>
-      <br><strong>Material Design</strong>
-      <br><sub>UI/UX Excellence</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🔥 What I Do
+## 🎯 What I Do
 
 <details open>
-<summary><b>📱 Mobile Development</b></summary>
+<summary><b>💻 Hosting & Cloud</b></summary>
 <br>
-  
-- ✅ Native Android Applications (Kotlin & Java)
-- ✅ Cross-Platform Development (Flutter)
-- ✅ UI/UX Implementation with Material Design
-- ✅ Responsive & Adaptive Layouts
-- ✅ Custom Views & Animations
+
+- ✅ Web Hosting Management (cPanel)  
+- ✅ Domain & DNS Configuration  
+- ✅ Server Troubleshooting  
+- ✅ Client Technical Support  
+
 </details>
 
 <details open>
-<summary><b>🏗️ Architecture & Patterns</b></summary>
+<summary><b>📱 Android Development (Learning)</b></summary>
 <br>
-  
-- ✅ MVVM (Model-View-ViewModel)
-- ✅ Clean Architecture
-- ✅ Repository Pattern
-- ✅ Dependency Injection (Hilt/Koin)
-- ✅ Reactive Programming (Coroutines, Flow, RxJava)
-</details>
 
-<details open>
-<summary><b>🔌 Backend Integration</b></summary>
-<br>
-  
-- ✅ RESTful APIs (Retrofit, OkHttp)
-- ✅ Firebase Services (Auth, Firestore, Storage, Cloud Messaging)
-- ✅ Real-time Database Integration
-- ✅ GraphQL
-- ✅ WebSocket Connections
-</details>
+- ✅ Learning Kotlin & XML  
+- ✅ Building basic Android apps  
+- ✅ UI Layout Design  
+- ✅ Working with Android Studio  
 
-<details open>
-<summary><b>⚡ Performance & Quality</b></summary>
-<br>
-  
-- ✅ App Performance Optimization
-- ✅ Memory & Battery Management
-- ✅ Unit & Integration Testing
-- ✅ Debugging & Profiling
-- ✅ Code Review & Best Practices
 </details>
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Skills
 
-### **Languages**
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
-### **Frameworks & Libraries**
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
-</p>
-
-### **Backend & Database**
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### **Tools & IDEs**
-<p>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-### **Additional Skills**
-<p>
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Glide-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/RxJava-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Hosting-Expert-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/cPanel-Management-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-Configuration-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android-Kotlin%20(XML)-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelancing-Fiverr%20Level%20One-purple?style=for-the-badge" />
 </p>
 
 ---
+
+## 💼 Experience
+
+### 🔹 HostingGram (2024 – Present)
+- Managing hosting services & servers  
+- Troubleshooting client issues  
+
+### 🔹 InnovantiaCloud (2026 – Present)
+- Cloud hosting & deployment  
+- Website maintenance  
+
+### 🔹 Fiverr (Level One Seller)
+- Hosting & technical support  
+- Worked with international clients  
+
+---
+
+## 📱 Projects
+
+> 🚧 Android projects coming soon (currently learning & building)
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://shorturl.at/Hij1F">
+    <img src="https://img.shields.io/badge/Fiverr-View%20Profile-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="mailto:aliyantarar4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ali786-c">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- REST DESIGN SAME RAKHNA (Stats, Footer etc.) -->
 
 ## 📊 GitHub Statistics
 
